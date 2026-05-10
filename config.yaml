@@ -1,0 +1,12 @@
+voice:
+  trigger_phrase: "Switch to profile Viko"
+  app_to_open: 
+    - "steam"
+    - "chrome"
+
+face:
+  timeout_seconds: 30
+  reference_photo: "my_face.jpg"
+
+gesture:
+  trigger: "thumbs_up"
